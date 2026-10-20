@@ -1,6 +1,6 @@
 ## Hi there, I'm Hiba 👋
 
-I'm a software developer interested in building practical applications that connect modern software, cloud services, and intelligent systems.
+I'm a Full-stack IoT developer interested in building practical applications that connect modern software, cloud services, and intelligent systems.
 
 ###  Featured Projects
 
