@@ -6,7 +6,7 @@ I’m a full-stack IoT developer. I build connected systems end to end: ESP32 fi
 
 | Area | Tools |
 |---|---|
-| Embedded & IoT | ESP32, C/C++ (Arduino framework), MAX30102 sensor, Raspberry Pi |
+| Embedded & IoT | ESP32, C/C++ (Arduino framework), Raspberry Pi, sensors |
 | Web & mobile | React, Vite, Tailwind CSS, Flutter, Java (Android) |
 | Cloud & data | Firebase (Firestore, Realtime Database, Authentication) |
 | VR | Unity (C#), Meta Quest 2 |
