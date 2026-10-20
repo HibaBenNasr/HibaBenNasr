@@ -2,7 +2,7 @@
 
 I'm a software developer interested in building practical applications that connect modern software, cloud services, and intelligent systems.
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🥽 VR Phobia Therapy System
 An academic prototype combining Unity-based VR exposure scenarios, physiological monitoring, Firebase, and a React therapist dashboard.
@@ -20,7 +20,7 @@ A Flutter and Firebase application for customer complaints, task coordination, a
 [Explore the project →](https://github.com/HibaBenNasr/Management-of-customer-requests)
 
 
-### 📫 Connect With Me
+###  Connect With Me
 
 - [GitHub](https://github.com/HibaBenNasr)
-- LinkedIn: [Go to my LinkedIn profile](www.linkedin.com/in/hiba-ben-nasr)
+- LinkedIn: [Visit my LinkedIn profile](https://www.linkedin.com/in/hiba-ben-nasr/)
