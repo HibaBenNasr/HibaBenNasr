@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Hiba 👋
 
-<!--
-**HibaBenNasr/HibaBenNasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer interested in building practical applications that connect modern software, cloud services, and intelligent systems.
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🥽 VR Phobia Therapy System
+An academic prototype combining Unity-based VR exposure scenarios, physiological monitoring, Firebase, and a React therapist dashboard.
+
+[Explore the project →](https://github.com/HibaBenNasr/vr-phobia-therapy-system)
+
+#### 🔥 SHAM — IoT Fire-Detection System
+A mobile interface for an IoT fire-detection project, featuring environmental monitoring and Firebase integration.
+
+[Explore the Flutter implementation →](https://github.com/HibaBenNasr/ip-sham-project)
+
+#### 📋 Customer Request Management
+A Flutter and Firebase application for customer complaints, task coordination, and role-based user management.
+
+[Explore the project →](https://github.com/HibaBenNasr/Management-of-customer-requests)
+
+
+### 📫 Connect With Me
+
+- [GitHub](https://github.com/HibaBenNasr)
+- LinkedIn: [Go to my LinkedIn profile](www.linkedin.com/in/hiba-ben-nasr)
